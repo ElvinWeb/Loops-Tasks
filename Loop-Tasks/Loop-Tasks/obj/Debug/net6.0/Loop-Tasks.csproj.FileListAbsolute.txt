@@ -1,0 +1,14 @@
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Loop-Tasks\Loop-Tasks\obj\Debug\net6.0\Loop-Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Loop-Tasks\Loop-Tasks\obj\Debug\net6.0\Loop-Tasks.AssemblyInfoInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Loop-Tasks\Loop-Tasks\obj\Debug\net6.0\Loop-Tasks.AssemblyInfo.cs
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Loop-Tasks\Loop-Tasks\obj\Debug\net6.0\Loop-Tasks.csproj.CoreCompileInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Loop-Tasks\Loop-Tasks\bin\Debug\net6.0\Loop-Tasks.exe
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Loop-Tasks\Loop-Tasks\bin\Debug\net6.0\Loop-Tasks.deps.json
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Loop-Tasks\Loop-Tasks\bin\Debug\net6.0\Loop-Tasks.runtimeconfig.json
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Loop-Tasks\Loop-Tasks\bin\Debug\net6.0\Loop-Tasks.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Loop-Tasks\Loop-Tasks\bin\Debug\net6.0\Loop-Tasks.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Loop-Tasks\Loop-Tasks\obj\Debug\net6.0\Loop-Tasks.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Loop-Tasks\Loop-Tasks\obj\Debug\net6.0\refint\Loop-Tasks.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Loop-Tasks\Loop-Tasks\obj\Debug\net6.0\Loop-Tasks.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Loop-Tasks\Loop-Tasks\obj\Debug\net6.0\Loop-Tasks.genruntimeconfig.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Loop-Tasks\Loop-Tasks\obj\Debug\net6.0\ref\Loop-Tasks.dll
