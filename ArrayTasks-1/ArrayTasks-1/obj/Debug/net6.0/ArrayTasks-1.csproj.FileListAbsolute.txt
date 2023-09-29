@@ -1,0 +1,14 @@
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ArrayTasks-1\ArrayTasks-1\bin\Debug\net6.0\ArrayTasks-1.exe
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ArrayTasks-1\ArrayTasks-1\bin\Debug\net6.0\ArrayTasks-1.deps.json
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ArrayTasks-1\ArrayTasks-1\bin\Debug\net6.0\ArrayTasks-1.runtimeconfig.json
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ArrayTasks-1\ArrayTasks-1\bin\Debug\net6.0\ArrayTasks-1.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ArrayTasks-1\ArrayTasks-1\bin\Debug\net6.0\ArrayTasks-1.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ArrayTasks-1\ArrayTasks-1\obj\Debug\net6.0\ArrayTasks-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ArrayTasks-1\ArrayTasks-1\obj\Debug\net6.0\ArrayTasks-1.AssemblyInfoInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ArrayTasks-1\ArrayTasks-1\obj\Debug\net6.0\ArrayTasks-1.AssemblyInfo.cs
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ArrayTasks-1\ArrayTasks-1\obj\Debug\net6.0\ArrayTasks-1.csproj.CoreCompileInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ArrayTasks-1\ArrayTasks-1\obj\Debug\net6.0\ArrayTasks-1.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ArrayTasks-1\ArrayTasks-1\obj\Debug\net6.0\refint\ArrayTasks-1.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ArrayTasks-1\ArrayTasks-1\obj\Debug\net6.0\ArrayTasks-1.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ArrayTasks-1\ArrayTasks-1\obj\Debug\net6.0\ArrayTasks-1.genruntimeconfig.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ArrayTasks-1\ArrayTasks-1\obj\Debug\net6.0\ref\ArrayTasks-1.dll
